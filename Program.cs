@@ -1,1 +1,1 @@
-bool IsEven(int n) { return n % 2 == 0; }
+bool IsEven(int n) { return n % 2 == 0; }// Added feature code
